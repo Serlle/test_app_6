@@ -23,4 +23,3 @@ Things you may want to cover:
 
 * ...
 # test_app_6
-# test_app_6
